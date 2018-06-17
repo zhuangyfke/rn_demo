@@ -9,9 +9,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * Created by zhuangyufeng on 2018/6/13.
- */
+
 
 public class ExampleReactPackage implements ReactPackage {
     @Override
